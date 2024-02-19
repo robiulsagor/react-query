@@ -2,17 +2,25 @@
   "products": [
     {
       "id": "1",
-      "title": "iPhone 9 updated",
+      "title": "iPhone 9",
       "description": "An apple mobile which is nothing like apple",
       "price": 549,
       "rating": 4.69,
       "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
     },
     {
+      "id": "2",
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "rating": 4.44,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+    },
+    {
       "id": "3",
-      "title": "Samsung Universe 9 updated",
+      "title": "Samsung Universe 9",
       "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
-      "price": "555",
+      "price": 1249,
       "rating": 4.09,
       "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg"
     },
@@ -25,14 +33,6 @@
       "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
     },
     {
-      "id": "5",
-      "title": "Huawei P30",
-      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-      "price": 499,
-      "rating": 4.09,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg"
-    },
-    {
       "id": "6",
       "title": "MacBook Pro",
       "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
@@ -42,7 +42,7 @@
     },
     {
       "id": "7",
-      "title": "Samsung Galaxy Book ",
+      "title": "Samsung Galaxy Book",
       "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
       "price": 1499,
       "rating": 4.25,
@@ -169,14 +169,6 @@
       "thumbnail": "https://cdn.dummyjson.com/product-images/22/thumbnail.jpg"
     },
     {
-      "id": "23",
-      "title": "Orange Essence Food Flavou",
-      "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
-      "price": 14,
-      "rating": 4.85,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/23/thumbnail.jpg"
-    },
-    {
       "id": "24",
       "title": "cereals muesli fruit nuts",
       "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
@@ -201,14 +193,6 @@
       "thumbnail": "https://cdn.dummyjson.com/product-images/26/thumbnail.jpg"
     },
     {
-      "id": "27",
-      "title": "Flying Wooden Bird gg",
-      "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
-      "price": 51,
-      "rating": 4.41,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/27/thumbnail.webp"
-    },
-    {
       "id": "28",
       "title": "3D Embellishment Art Lamp",
       "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
@@ -223,14 +207,6 @@
       "price": 60,
       "rating": 4.44,
       "thumbnail": "https://cdn.dummyjson.com/product-images/29/thumbnail.webp"
-    },
-    {
-      "id": "30",
-      "title": "Key Holder",
-      "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
-      "price": 30,
-      "rating": 4.92,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg"
     },
     {
       "id": "13dfb563-bc9a-4027-8100-fea2348e51bd",
@@ -257,28 +233,28 @@
       "thumbnail": "kjjl"
     },
     {
-      "id": "c0550154-58e4-496b-8c14-e4c4cf730651",
-      "title": "bbbbaa",
-      "description": "nnnnn",
+      "id": "77dbc929-c4ed-43a8-a6d0-507de095f329",
+      "title": "test",
+      "description": "test desc",
       "price": 3,
       "rating": 5,
-      "thumbnail": "kjjl"
+      "thumbnail": "test"
     },
     {
-      "id": "1",
-      "title": "iPhone 9",
-      "description": "An apple mobile which is nothing like apple",
-      "price": 549,
-      "rating": 4.69,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+      "id": "3e4184c2-be27-4dfb-83a6-ac491190d068",
+      "title": "nice bed",
+      "description": "nice description of nice bed",
+      "price": "500",
+      "rating": 0,
+      "thumbnail": "https://w7.pngwing.com/pngs/807/228/png-transparent-gray-bed-comforter-bed-size-mattress-bed-frame-bed-furniture-couch-mattress-pad-thumbnail.png"
     },
     {
-      "id": "1",
-      "title": "iPhone 9 updated again",
-      "description": "An apple mobile which is nothing like apple",
-      "price": 549,
-      "rating": 4.69,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+      "id": "ba3c286c-f662-4efb-8e7f-d6773047f51e",
+      "title": "updated sofa",
+      "description": "nice description of nice sofa ",
+      "price": "200",
+      "rating": 0,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4ioBxbxzquVlrYZ_SYDbjc3PyKFoq9dhzKWFJbsdXked-WLXATRxGtaOKYiwqgSyBd4&usqp=CAU"
     }
   ]
 }
