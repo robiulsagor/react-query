@@ -112,7 +112,7 @@ export default function AddProduct() {
       </h2>
 
       {mutation.isSuccess && (
-        <span className="mt-3 block text-center">Product added</span>
+        <span className="mt-3 block text-center text-green-800">Success!</span>
       )}
 
       <form
